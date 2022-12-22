@@ -90,7 +90,7 @@
 <div align='left'>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kevindsa2017">
+  <a href="https://www.linkedin.com/in/deepmanek/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
