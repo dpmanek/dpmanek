@@ -19,7 +19,7 @@
 
 - A passionate Full Stack developer
 - Watching Anime at spare time
-- I’m currently open for a new job opportunity, this is [my resume](https://www.linkedin.com/in/deepmanek/)
+- I’m currently open for a new job opportunity, this is [my resume](https://raw.githubusercontent.com/dpmanek/Resume/master/Deep%20Manek.pdf)
 
 <br><br>
 
