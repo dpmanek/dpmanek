@@ -17,9 +17,9 @@
 
 <br>
 
-- A passionate Self-taught Full Stack developer
+- A passionate Full Stack developer
 - Watching Anime at spare time
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.linkedin.com/in/deepmanek/)
+- I’m currently open for a new job opportunity, this is [my resume](https://www.linkedin.com/in/deepmanek/)
 
 <br><br>
 
